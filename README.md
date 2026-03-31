@@ -56,3 +56,7 @@ I'd like to thank all the contributors and users of this repository for their in
 ---
 
 Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024.
+
+---
+## 📦 Imported from [https://github.com/hoangsonww/Digital-Design-Labs](https://github.com/hoangsonww/Digital-Design-Labs)
+*Imported using ForkYouToo - Learn, Adapt, Build*
